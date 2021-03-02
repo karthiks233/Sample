@@ -1,1 +1,1 @@
-# Sample
+TO PRINT RANDOM STRING
